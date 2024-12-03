@@ -86,9 +86,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-- **Your Name**
-- Student at [Your University Name]
-- [Your Contact Info or GitHub Profile](https://github.com/your-username)
+- **Yanis**
+- Student at ESTIN
+- [Your Contact Info or GitHub Profile](https://github.com/YanisCodes)
 
 ---
 
